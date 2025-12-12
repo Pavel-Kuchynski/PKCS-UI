@@ -1,0 +1,203 @@
+{
+    "id": "abafee89-f571-43f6-b3ba-ffbc91e1cbb9",
+    "url": "C50",
+    "whitePlayer": {
+        "username": "God_usoppppp"
+    },
+    "blackPlayer": {
+        "username": "pavelkuc"
+    },
+    "result": "WHITE_WON",
+    "ecoCode": "C50",
+    "moves": [
+        {
+            "moveNumber": 1,
+            "color": "WHITE",
+            "san": "e4",
+            "from": "E2",
+            "to": "E4",
+            "promotion": "NONE",
+            "fenAfter": "rnbqkbnr/pppppppp/8/8/4P3/8/PPPP1PPP/RNBQKBNR b KQkq e3 0 1"
+        },
+        {
+            "moveNumber": 1,
+            "color": "BLACK",
+            "san": "e5",
+            "from": "E7",
+            "to": "E5",
+            "promotion": "NONE",
+            "fenAfter": "rnbqkbnr/pppp1ppp/8/4p3/4P3/8/PPPP1PPP/RNBQKBNR w KQkq e6 0 2"
+        },
+        {
+            "moveNumber": 2,
+            "color": "WHITE",
+            "san": "Nf3",
+            "from": "G1",
+            "to": "F3",
+            "promotion": "NONE",
+            "fenAfter": "rnbqkbnr/pppp1ppp/8/4p3/4P3/5N2/PPPP1PPP/RNBQKB1R b KQkq - 1 2"
+        },
+        {
+            "moveNumber": 2,
+            "color": "BLACK",
+            "san": "Nc6",
+            "from": "B8",
+            "to": "C6",
+            "promotion": "NONE",
+            "fenAfter": "r1bqkbnr/pppp1ppp/2n5/4p3/4P3/5N2/PPPP1PPP/RNBQKB1R w KQkq - 2 3"
+        },
+        {
+            "moveNumber": 3,
+            "color": "WHITE",
+            "san": "Nc3",
+            "from": "B1",
+            "to": "C3",
+            "promotion": "NONE",
+            "fenAfter": "r1bqkbnr/pppp1ppp/2n5/4p3/4P3/2N2N2/PPPP1PPP/R1BQKB1R b KQkq - 3 3"
+        },
+        {
+            "moveNumber": 3,
+            "color": "BLACK",
+            "san": "Bc5",
+            "from": "F8",
+            "to": "C5",
+            "promotion": "NONE",
+            "fenAfter": "r1bqk1nr/pppp1ppp/2n5/2b1p3/4P3/2N2N2/PPPP1PPP/R1BQKB1R w KQkq - 4 4"
+        },
+        {
+            "moveNumber": 4,
+            "color": "WHITE",
+            "san": "Bc4",
+            "from": "F1",
+            "to": "C4",
+            "promotion": "NONE",
+            "fenAfter": "r1bqk1nr/pppp1ppp/2n5/2b1p3/2B1P3/2N2N2/PPPP1PPP/R1BQK2R b KQkq - 5 4"
+        },
+        {
+            "moveNumber": 4,
+            "color": "BLACK",
+            "san": "Nf6",
+            "from": "G8",
+            "to": "F6",
+            "promotion": "NONE",
+            "fenAfter": "r1bqk2r/pppp1ppp/2n2n2/2b1p3/2B1P3/2N2N2/PPPP1PPP/R1BQK2R w KQkq - 6 5"
+        },
+        {
+            "moveNumber": 5,
+            "color": "WHITE",
+            "san": "Bxf7+",
+            "from": "C4",
+            "to": "F7",
+            "promotion": "NONE",
+            "fenAfter": "r1bqk2r/pppp1Bpp/2n2n2/2b1p3/4P3/2N2N2/PPPP1PPP/R1BQK2R b KQkq - 0 5"
+        },
+        {
+            "moveNumber": 5,
+            "color": "BLACK",
+            "san": "Kxf7",
+            "from": "E8",
+            "to": "F7",
+            "promotion": "NONE",
+            "fenAfter": "r1bq3r/pppp1kpp/2n2n2/2b1p3/4P3/2N2N2/PPPP1PPP/R1BQK2R w KQ - 0 6"
+        },
+        {
+            "moveNumber": 6,
+            "color": "WHITE",
+            "san": "Ng5+",
+            "from": "F3",
+            "to": "G5",
+            "promotion": "NONE",
+            "fenAfter": "r1bq3r/pppp1kpp/2n2n2/2b1p1N1/4P3/2N5/PPPP1PPP/R1BQK2R b KQ - 1 6"
+        },
+        {
+            "moveNumber": 6,
+            "color": "BLACK",
+            "san": "Ke8",
+            "from": "F7",
+            "to": "E8",
+            "promotion": "NONE",
+            "fenAfter": "r1bqk2r/pppp2pp/2n2n2/2b1p1N1/4P3/2N5/PPPP1PPP/R1BQK2R w KQ - 2 7"
+        },
+        {
+            "moveNumber": 7,
+            "color": "WHITE",
+            "san": "Na4",
+            "from": "C3",
+            "to": "A4",
+            "promotion": "NONE",
+            "fenAfter": "r1bqk2r/pppp2pp/2n2n2/2b1p1N1/N3P3/8/PPPP1PPP/R1BQK2R b KQ - 3 7"
+        },
+        {
+            "moveNumber": 7,
+            "color": "BLACK",
+            "san": "d6",
+            "from": "D7",
+            "to": "D6",
+            "promotion": "NONE",
+            "fenAfter": "r1bqk2r/ppp3pp/2np1n2/2b1p1N1/N3P3/8/PPPP1PPP/R1BQK2R w KQ - 0 8"
+        },
+        {
+            "moveNumber": 8,
+            "color": "WHITE",
+            "san": "c3",
+            "from": "C2",
+            "to": "C3",
+            "promotion": "NONE",
+            "fenAfter": "r1bqk2r/ppp3pp/2np1n2/2b1p1N1/N3P3/2P5/PP1P1PPP/R1BQK2R b KQ - 0 8"
+        },
+        {
+            "moveNumber": 8,
+            "color": "BLACK",
+            "san": "Ng4",
+            "from": "F6",
+            "to": "G4",
+            "promotion": "NONE",
+            "fenAfter": "r1bqk2r/ppp3pp/2np4/2b1p1N1/N3P1n1/2P5/PP1P1PPP/R1BQK2R w KQ - 1 9"
+        },
+        {
+            "moveNumber": 9,
+            "color": "WHITE",
+            "san": "d4",
+            "from": "D2",
+            "to": "D4",
+            "promotion": "NONE",
+            "fenAfter": "r1bqk2r/ppp3pp/2np4/2b1p1N1/N2PP1n1/2P5/PP3PPP/R1BQK2R b KQ d3 0 9"
+        },
+        {
+            "moveNumber": 9,
+            "color": "BLACK",
+            "san": "exd4",
+            "from": "E5",
+            "to": "D4",
+            "promotion": "NONE",
+            "fenAfter": "r1bqk2r/ppp3pp/2np4/2b3N1/N2pP1n1/2P5/PP3PPP/R1BQK2R w KQ - 0 10"
+        },
+        {
+            "moveNumber": 10,
+            "color": "WHITE",
+            "san": "Qb3",
+            "from": "D1",
+            "to": "B3",
+            "promotion": "NONE",
+            "fenAfter": "r1bqk2r/ppp3pp/2np4/2b3N1/N2pP1n1/1QP5/PP3PPP/R1B1K2R b KQ - 1 10"
+        },
+        {
+            "moveNumber": 10,
+            "color": "BLACK",
+            "san": "Na5",
+            "from": "C6",
+            "to": "A5",
+            "promotion": "NONE",
+            "fenAfter": "r1bqk2r/ppp3pp/3p4/n1b3N1/N2pP1n1/1QP5/PP3PPP/R1B1K2R w KQ - 2 11"
+        },
+        {
+            "moveNumber": 11,
+            "color": "WHITE",
+            "san": "Qf7#",
+            "from": "B3",
+            "to": "F7",
+            "promotion": "NONE",
+            "fenAfter": "r1bqk2r/ppp2Qpp/3p4/n1b3N1/N2pP1n1/2P5/PP3PPP/R1B1K2R b KQ - 3 11"
+        }
+    ]
+}
